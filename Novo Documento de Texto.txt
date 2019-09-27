@@ -1,0 +1,38 @@
+<html> 
+<head> <title> Ancoras links internos</title> </head>
+<body> 
+
+<h1>  Receitas de pão de Qeuijo Minieiros </h1>
+
+<hr>
+
+<p align="center"> {
+
+<a href="#ing">  Ingredientes </a> |
+<a href="#tempo "> Tempo de Preparo </a> |
+<a href="#rend" >  Rendimentos </a> |
+<a href= "#preparo" >  Modo de Preparo</a> |}
+</p>
+
+<a  name = "ing"> <h3> Ingredientes </h3> </a>
+4 copos (americanos ) de polvilho doce (500g) <br>
+Sal a gosto (ex. 1 colher de sopa) <br>
+2 copos de (americanos) de leite (300ml) <br>
+1 copo (americano) de óleo (150 ml ) <br>
+2 ovos grandes  ou 3 pequenos <br>
+4 copos (americanos) de queijo minas meia curas ralado <br>
+óleo para untar <br>
+
+<a name= "tempo"> <h3> Tempo de preparo </h3> </a>
+o Tempo de preparo médio é de 30 minutos
+
+<a name= "rend"> <h3> Rendimento </h3>  </a>
+Essa receita rende 5 porções
+
+<a name="preparo"> <h3> Modo de Preparo </h3> </a>
+
+Colocar o povilho em uma tigela grande <br>
+a parte, quando aquecer o forno, o leite  o oleo  <br>
+Quando ferver escaldar o povilho com essa mistura, mexer muito bem apra desfazer pelotinhas<br>
+deixe esfriar <br>
+Untar as mão 
