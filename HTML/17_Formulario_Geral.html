@@ -1,0 +1,46 @@
+<html>
+
+<head>
+  <title> formulario questão 3</title>
+</head>
+
+<body bgcolor="#bdb7">
+  <h2> O que você quer perquisar? </h2>
+  <form action="http://www.google.com/search" name="f" method="get">
+    <input type="text" name="q" size="40" />
+    <input type="submit" name="pesquisar" value="Pesquisar" />
+  </form>
+  <hr>
+  B)
+  <br>
+  <form action="http://www.google.com/search" name="f" method="get">
+    <fieldset>
+      <legend> O que você quer pesquisar? </legend>
+      <label for="palavras"> Palavras que deseja pesquisar: </label>
+      <input type="text" name="as_op" id="palavras" size="40" />
+      <h3> ou</h3>
+      <label for="exp"> Expressão exata: </label> </br>
+      <textarea name="as_eqp" rows="4" cols="55" id="exp"> </textarea>
+    </fieldset> </br>
+    <fieldset>
+      <legend> Opções </legend>
+      <label for="opc"> Idioma: </label>
+      <select name="lr" size="1" id="opc">
+        <option value="lang_pt"> Português </option>
+        <option value="lang_en"> Inglês </option>
+        <option value="lang_es"> Espanhol </option>
+        <select> </br>
+          <label for="onde"> Pesquisar onde: </label> </br>
+          <select name="as_occt" size="4" id="onde">
+            <option value=""> Em qualquer lugar da página </option>
+            <option value="title"> No titulo da página </option>
+            <option value="body"> No corpo da página </option>
+          </select>
+    </fieldset>
+    <input type="reset" name="limpar" value="Lipar" />
+    <input type="submit" name="pesquisar" value="Pesquisar">
+  </form>
+
+</body>
+
+</html>
